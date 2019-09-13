@@ -1,0 +1,46 @@
+.pholder{
+    margin: 0 auto;
+    display: block;
+    margin-top: 75px;
+    text-align: center;
+    
+    
+}
+
+.form{
+    margin-top: 50px;
+    border: 1px solid grey;
+    padding: 15px;
+    
+}
+.btn{
+    margin: 0 auto;
+    display: block;
+    width: 100%;
+    background-color: orange;
+    color: black;
+    text-align: center;
+}
+#content{
+    margin-top: 15px;
+    border-top: 1px solid gray;
+    padding: 10px;
+    
+}
+
+.titlebox{
+    position: absolute;
+    padding: 0 5px;
+    background: white;
+    transform: translate(200px, -24px);
+
+}
+.btn-cact{
+    margin: 0 auto;
+    display: block;
+    width: 500px;
+}
+.btn-fpass{
+    float: right;
+
+}
